@@ -25,17 +25,11 @@
                 <li>マイページ</li>
                 <li><a href="user.html">ユーザー情報</a></li>
                 <li><a href="coupon.html">クーポン</a></li>
-                <li>Help</li>
-                <li><a href="help_faq.html">よくあるご質問</a></li>
-                <li><a href="help_allergy.html">カロリー・アレルギー</a></li>
-                <li><a href="help_use.html">ご利用方法</a></li>
-                <li><a href="help_inquiry.html">お問い合わせ</a></li>
                 <li>About</li>
-                <li><a href="about_privacy.html">個人情報保護方針 </a></li>
-                <li><a href="about_policy.html">サイトポリシー</a></li>
-                <li><a href="about_law.html">特定商取引法に基づく表示</a></li>
-                <li><a href="about_corporate.html">コーポレート情報</a></li>
-                <li><a href="about_rule.html">ご利用規約</a></li>
+                <li><a href="faq.html">よくあるご質問</a></li>
+                <li><a href="use.html">ご利用方法</a></li>
+                <li><a href="inquiry.html">お問い合わせ</a></li>
+                <li><a href="policy.html">サイトポリシー</a></li>
             </ul>
         </nav>
         <header data-role="header" data-position="fixed" data-tap-toggle="false">
