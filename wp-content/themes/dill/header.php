@@ -20,7 +20,7 @@
 </head>
 <?php wp_head(); ?>
 <body class="drawer drawer--left">
-	<div data-role="page" id="menu">
+	<div data-role="page">
 		<nav class="drawer-nav">
 			<ul class="drawer-menu" data-role="listview" data-fileter="true">
 				<li></li>

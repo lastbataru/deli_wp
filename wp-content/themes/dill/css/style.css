@@ -103,23 +103,23 @@ footer nav {}
 
 
 /*
-home.html
+home
 */
 
-#home .jumbotron {
+.jumbotron {
     color: #FFFBEB;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-#home .jumbotron h1 {
+.jumbotron h1 {
     font-size: 28px;
     padding: 0.5em;
     font-weight: 500;
 }
 
-#home .jumbotron p {
+.jumbotron p {
     font-size: 18px;
     padding: 0.5em;
     font-weight: 500;
@@ -127,7 +127,6 @@ home.html
 }
 
 #main-top.jumbotron {
-    background-image: url(../images/home_GwCke.jpg);
     height: 35em;
 }
 
@@ -156,7 +155,7 @@ home.html
 
 
 /*
-menu.html
+menu
 */
 
 #menu .col-xs-6,
